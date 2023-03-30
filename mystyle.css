@@ -1,0 +1,31 @@
+@charset "utf-8";
+body{
+    background-color: antiquewhite;
+
+}
+
+h1{
+    color: cornflowerblue;
+    text-align: center;
+}
+
+p{
+    color: azure;
+}
+.alpha{
+    color: blueviolet;
+    text-decoration: none;
+}
+
+#list{
+    background-color: darkgrey;
+    
+}
+#list strong{
+    background-color: black;
+}
+
+#list strong:hover{
+    color: fuchsia;
+
+}
